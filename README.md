@@ -13,7 +13,7 @@ This version uses [spoonx/aurelia-api](https://github.com/SpoonX/aurelia-api) an
 
 ## Installation instructions
 ```
-git clone https://github.com/dirkeisinger/aurelia-auth-loopback-sample
+git clone https://github.com/doktordirk/aurelia-auth-loopback-sample
 cd aurelia-auth-loopback-sample
 npm install
 cd client
